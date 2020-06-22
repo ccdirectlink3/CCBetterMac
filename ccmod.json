@@ -1,0 +1,6 @@
+{
+  "id": "better-mac",
+  "version": "2.0.0",
+  "title": "CCBetterMac",
+  "prestart": "prestart.js"
+}
